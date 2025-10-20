@@ -1,7 +1,0 @@
-Flask==2.3.3
-gunicorn==21.2.0
-torch==2.0.1+cpu
-transformers==4.33.2
-langdetect==1.0.9
-banglish-transliterate==1.0
-bangla==0.0.3
