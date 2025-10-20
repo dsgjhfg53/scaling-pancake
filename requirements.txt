@@ -1,4 +1,4 @@
 Flask==2.3.3
-banglish-transliterate==1.0
 langdetect==1.0.9
 requests==2.31.0
+banglish==1.2.3          # ← real name on PyPI
