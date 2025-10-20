@@ -1,5 +1,5 @@
 import re, json, torch
-from flask import Flask, request, render_template, jsonify
+from flask import Flask, request, render_template, jso
 from langdetect import detect
 from banglish_transliterate import to_bangla
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
